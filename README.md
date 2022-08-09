@@ -4,7 +4,7 @@
 
 <font size="5">🔭 I’m currently working on my portfolio.</font>
 <br>
-<font size="5">🌱I’m currently learning Data Streuctures.</font>
+<font size="5">🌱I’m currently learning Data Structures.</font>
 <br>
 <font size="5">⚡ Fun fact: I like challenging things.</font>
 <br>
