@@ -61,6 +61,7 @@
 
 
 # 📊 GitHub Stats:
+( If you can't see 3 cards below, please reload the page. )
 <div align="center">
 <img  height="160" valign="top" src="https://my-github-streak.herokuapp.com?user=BrenoRCBrito&theme=onedark&hide_border=false"/>
 <img height="160" valign="top" src="https://my-github-stats-ey68158hg-brenorcbrito.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
